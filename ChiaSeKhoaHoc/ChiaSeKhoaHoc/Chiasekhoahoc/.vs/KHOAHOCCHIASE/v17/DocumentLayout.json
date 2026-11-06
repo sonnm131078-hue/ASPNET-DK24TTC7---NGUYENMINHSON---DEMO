@@ -1,0 +1,431 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|c:\\users\\admin\\downloads\\websitemovie_dan\\websitemovie_dan\\websitemovie_dan\\websitemovie_dan\\controllers\\giophimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|solutionrelative:websitemovie_dan\\controllers\\giophimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|c:\\users\\admin\\downloads\\websitemovie_dan\\websitemovie_dan\\websitemovie_dan\\websitemovie_dan\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|solutionrelative:websitemovie_dan\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilm.csproj|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\websitemovie_dan\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilm.csproj|solutionrelative:websitemovie_dan\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|c:\\users\\admin\\downloads\\websitemovie_dan\\websitemovie_dan\\websitemovie_dan\\websitemovie_dan\\areas\\admin\\views\\homeadmin\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|solutionrelative:websitemovie_dan\\areas\\admin\\views\\homeadmin\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\websitemovie_dan\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|solutionrelative:websitemovie_dan\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\websitemovie_dan\\areas\\admin\\views\\taikhoan\\dstaikhoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|solutionrelative:websitemovie_dan\\areas\\admin\\views\\taikhoan\\dstaikhoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\websitemovie_dan\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|solutionrelative:websitemovie_dan\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\websitemovie_dan\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|solutionrelative:websitemovie_dan\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\websitemovie_dan\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|solutionrelative:websitemovie_dan\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\websitemovie_dan\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|solutionrelative:websitemovie_dan\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\websitemovie_dan\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|solutionrelative:websitemovie_dan\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\websitemovie_dan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|solutionrelative:websitemovie_dan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\websitemovie_dan\\views\\home\\timkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|solutionrelative:websitemovie_dan\\views\\home\\timkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\websitemovie_dan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|solutionrelative:websitemovie_dan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\websitemovie_dan\\views\\giophim\\datphim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|solutionrelative:websitemovie_dan\\views\\giophim\\datphim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\websitemovie_dan\\views\\gioithieu\\gioithieuwebxemphimso1vietnam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|solutionrelative:websitemovie_dan\\views\\gioithieu\\gioithieuwebxemphimso1vietnam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\websitemovie_dan\\views\\chitietphim\\chitietphimle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|solutionrelative:websitemovie_dan\\views\\chitietphim\\chitietphimle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\websitemovie_dan\\views\\chitietphim\\chitietphim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|solutionrelative:websitemovie_dan\\views\\chitietphim\\chitietphim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\websitemovie_dan\\models\\taikhoandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|solutionrelative:websitemovie_dan\\models\\taikhoandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\websitemovie_dan\\common\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|solutionrelative:websitemovie_dan\\common\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\websitemovie_dan\\controllers\\dangnhapdangkycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7705C8ED-6CB9-4208-A82F-4143CC79132E}|WebsiteMovie_DAN\\WebsiteFilmtrucTuyenNew.csproj|solutionrelative:websitemovie_dan\\controllers\\dangnhapdangkycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Content\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebsiteMovie_DAN\\Content\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Content\\css\\css.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebsiteMovie_DAN\\Content\\css\\css.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Content\\css\\classy-nav.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebsiteMovie_DAN\\Content\\css\\classy-nav.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Content\\Admin\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebsiteMovie_DAN\\Content\\Admin\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GioPhimController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Controllers\\GioPhimController.cs",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Controllers\\GioPhimController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Controllers\\GioPhimController.cs",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Controllers\\GioPhimController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:18:02.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Web.config",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Web.config",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Web.config",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-08T09:34:22.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Areas\\Admin\\Views\\HomeAdmin\\Home.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Areas\\Admin\\Views\\HomeAdmin\\Home.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Areas\\Admin\\Views\\HomeAdmin\\Home.cshtml",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Areas\\Admin\\Views\\HomeAdmin\\Home.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwFMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T09:33:52.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "WebsiteMovie_DAN\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:33:54.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "WebsiteMovie_DAN\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:33:54.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Web.config",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Web.config",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Web.config",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Web.config",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAjwFkAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-08T09:33:54.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DSTaiKhoan.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Areas\\Admin\\Views\\TaiKhoan\\DSTaiKhoan.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Areas\\Admin\\Views\\TaiKhoan\\DSTaiKhoan.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Areas\\Admin\\Views\\TaiKhoan\\DSTaiKhoan.cshtml",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Areas\\Admin\\Views\\TaiKhoan\\DSTaiKhoan.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2025-07-08T09:33:54.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAjwCwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2025-07-08T09:33:54.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebsiteMovie_DAN\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:33:54.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "WebsiteMovie_DAN\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:33:54.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DatPhim.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Views\\GioPhim\\DatPhim.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Views\\GioPhim\\DatPhim.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Views\\GioPhim\\DatPhim.cshtml",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Views\\GioPhim\\DatPhim.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAABIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2025-07-08T09:33:54.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChiTietPhimLe.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Views\\ChiTietPhim\\ChiTietPhimLe.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Views\\ChiTietPhim\\ChiTietPhimLe.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Views\\ChiTietPhim\\ChiTietPhimLe.cshtml",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Views\\ChiTietPhim\\ChiTietPhimLe.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2025-07-08T09:33:54.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TimKiem.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Views\\Home\\TimKiem.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Views\\Home\\TimKiem.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Views\\Home\\TimKiem.cshtml",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Views\\Home\\TimKiem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2025-07-08T09:33:54.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GioiThieuWebXemPhimSo1VietNam.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Views\\GioiThieu\\GioiThieuWebXemPhimSo1VietNam.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Views\\GioiThieu\\GioiThieuWebXemPhimSo1VietNam.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Views\\GioiThieu\\GioiThieuWebXemPhimSo1VietNam.cshtml",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Views\\GioiThieu\\GioiThieuWebXemPhimSo1VietNam.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2025-07-08T09:33:54.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsBAAAAAAAAAAAAACcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2025-07-08T09:33:54.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAjwLcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2025-07-08T09:33:54.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2025-07-08T09:33:54.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChiTietPhim.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Views\\ChiTietPhim\\ChiTietPhim.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Views\\ChiTietPhim\\ChiTietPhim.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Views\\ChiTietPhim\\ChiTietPhim.cshtml",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Views\\ChiTietPhim\\ChiTietPhim.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2025-07-08T09:33:54.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TaiKhoanDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Models\\TaiKhoanDTO.cs",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Models\\TaiKhoanDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Models\\TaiKhoanDTO.cs",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Models\\TaiKhoanDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:33:54.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Hash.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Common\\Hash.cs",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Common\\Hash.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Common\\Hash.cs",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Common\\Hash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:33:54.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "font-awesome.min.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Content\\css\\font-awesome.min.css",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Content\\css\\font-awesome.min.css",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Content\\css\\font-awesome.min.css",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Content\\css\\font-awesome.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-08T09:33:54.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "css.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Content\\css\\css.css",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Content\\css\\css.css",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Content\\css\\css.css",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Content\\css\\css.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-08T09:33:54.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "classy-nav.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Content\\css\\classy-nav.css",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Content\\css\\classy-nav.css",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Content\\css\\classy-nav.css",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Content\\css\\classy-nav.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-08T09:33:54.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "sb-admin-2.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Content\\Admin\\css\\sb-admin-2.css",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Content\\Admin\\css\\sb-admin-2.css",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Content\\Admin\\css\\sb-admin-2.css",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Content\\Admin\\css\\sb-admin-2.css",
+              "ViewState": "AgIAAN4lAAAAAAAAAAAjwPElAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-08T09:33:54.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DangNhapDangKyController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Controllers\\DangNhapDangKyController.cs",
+              "RelativeDocumentMoniker": "WebsiteMovie_DAN\\Controllers\\DangNhapDangKyController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\WebsiteMovie_DAN\\Controllers\\DangNhapDangKyController.cs",
+              "RelativeToolTip": "WebsiteMovie_DAN\\Controllers\\DangNhapDangKyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:33:54.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

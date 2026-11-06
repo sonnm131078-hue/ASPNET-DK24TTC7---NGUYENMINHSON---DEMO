@@ -1,0 +1,85 @@
+﻿
+@model WebsiteMovie_DAN.Models.TaiKhoanDTO
+
+@{
+    ViewBag.Title = "ThemTK";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2>Thêm tài khoản</h2>
+
+@using (Html.BeginForm("ThemTK", "TaiKhoan", FormMethod.Post))
+{
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend></legend>
+        <div class="editor-label">
+            <b>Tên đăng nhập</b>
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.TenDN, new { @class = "form-control" })
+            @ViewData["Loi"]
+            @Html.ValidationMessageFor(model => model.TenDN)
+        </div>
+        <div class="editor-label">
+            <b>Mật khẩu</b>
+        </div>
+        <div class="editor-field">
+            @Html.PasswordFor(model => model.MatKhau, new { @class = "form-control" })
+            <div class="text-danger">
+                @ViewData["Loi1"]
+            </div>
+            @Html.ValidationMessageFor(model => model.MatKhau)
+            <div class="text-danger">
+                @ViewData["Loi2"]
+            </div>
+        </div>
+        <div class="editor-label">
+            <b>Email</b>
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.Email, new { @class = "form-control" })
+            <div class="text-danger">
+                @ViewData["Loi123"]
+            </div>
+            @Html.ValidationMessageFor(model => model.Email)
+            <div class="text-danger">
+                @ViewData["Loi3"]
+            </div>
+        </div>
+        <div class="editor-label">
+            <b>Quyền truy cập</b>
+        </div>
+        <div class="editor-field" style="margin-top:10px;">
+            @{
+                List<SelectListItem> listItems = new List<SelectListItem>();
+                listItems.Add(new SelectListItem
+                {
+                    Text = "Admin",
+                    Value = "True"
+                });
+                listItems.Add(new SelectListItem
+                {
+                    Text = "User",
+                    Value = "False",
+                    Selected = true
+                });
+            }
+
+            @Html.DropDownListFor(model => model.Quyen, listItems, new { @class = "form-control", })
+
+        </div>
+
+        <div class="editor-field" style="margin-top:20px;">
+            <input type="submit" value="Thêm" class="btn btn-success form-control" />
+        </div>
+    </fieldset>
+}
+<div style="margin-top:20px;">
+    <button type="button" class="btn btn-secondary">@Html.ActionLink("Trở lại", "DSTaiKhoan", "TaiKhoan")</button>
+</div>
+
+
+
